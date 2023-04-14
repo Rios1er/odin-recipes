@@ -1,9 +1,9 @@
 body {
-    background-color: aqua;
+    background-color: grey;
 }
 
 h1 { 
-    color: #800080;
+    color: #000000;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
@@ -12,6 +12,7 @@ div {
     background-color: white;
     list-style-position: inside;
     width: 15em;
+    margin: auto;
     border: 1px solid #333;
     box-shadow: 8px 8px 5px #444;
     padding: 8px 12px;
