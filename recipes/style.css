@@ -1,0 +1,37 @@
+body {
+    background-color: greenyellow;
+}
+
+div.burrito {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 10px;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: auto;
+    width: 50em;
+
+}
+
+#burrito-ingred {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 10px;
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 30em;
+}
+
+.instruc,.ingred {
+    text-align: center;
+}
+
+div.burrito-instruc {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 10px;
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 30em;
+}
+
+#button {
+    font-weight: bold;
+}
